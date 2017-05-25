@@ -1,7 +1,0 @@
-{
-    "name": "rongyun/yii-rongyun",
-    "type": "library",
-    "autoload": {
-        "psr-4": {"Rongyun\\": "Rongyun"},
-    }
-}
