@@ -2,6 +2,6 @@
     "name": "shangjie166/yii-rongyun",
     "type": "yii2-extension",
     "autoload": {
-        "psr-4": {"Rongyun\\": "api/Rongyun"},
+        "psr-4": {"Rongyun\\": "api/Rongyun"}
     }
 }
